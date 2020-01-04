@@ -1,2 +1,0 @@
-# clickGameRT
-Created with CodeSandbox
